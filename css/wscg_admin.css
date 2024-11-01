@@ -1,0 +1,25 @@
+#wscg_notice_support_view{
+
+    margin-top: 10px;
+
+    padding: 10px 10px 10px 10px;
+
+    border-color: rgba(0, 0, 0, 0.22);
+
+    border-width: 1px;
+
+    border-style: solid;
+
+    border-radius: 2px;
+
+    margin-left: 10px;
+
+}
+
+.wscg_support_click_common {
+
+    display: inline;
+
+    position: relative;
+
+}

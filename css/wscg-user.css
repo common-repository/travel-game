@@ -1,0 +1,98 @@
+.card_game_panel{
+    background-image: url(../images/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 10px;
+
+}
+
+.wscg_player_panel{
+    display: inline-block;
+    width: 30%;
+    margin-left: 50px;
+    margin-top: 188px;
+}
+.wscg_dealer_panel{
+    display: inline-block;
+    width: 30%;
+    margin-top: 188px;
+}
+.wscg_control_panel{
+    display: inline-block;
+    width: 22%;
+}
+.wscg_control_button{
+    width: 60%;
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 15px;
+}
+
+
+.wscg_result_message{
+
+    width: 70%;
+}
+#wscg_start_game{
+    cursor: pointer;
+}
+#wscg_start_game :hover{
+    opacity: 0.6;
+}
+#wscg_player_image{
+    width: 100%;
+}
+#wscg_dealer_image{
+    width: 100%;
+}
+#wscg_result_message{
+    width: 100%;
+}
+#wscg_start_image{
+    width: 100%;
+}
+
+/***************************************small card ************************/
+
+.card_game_panel_small{
+    background-image: url(https://ideal-escapes.com/fun/wp-content/uploads/2015/12/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 30%;
+    margin-bottom: 10px;
+}
+
+.wscg_player_panel_small{
+    display: inline-block;
+    width: 33%;
+    margin-left: 15px;
+    margin-top: 120px;
+}
+.wscg_dealer_panel_small{
+    display: inline-block;
+    width: 33%;
+    margin-top: 120px;
+}
+.wscg_control_panel_small{
+    display: inline-block;
+    width: 20%;
+}
+.wscg_control_button_small{
+    width: 60%;
+    display: inline-block;
+    margin-left: 15px;
+}
+
+
+.wscg_result_message_small{
+
+    width: 70%;
+    margin-left: 12px;
+}
+#wscg_start_game_small{
+    cursor: pointer;
+}
+#wscg_start_game_small :hover{
+    opacity: 0.6;
+}
